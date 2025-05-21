@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/vanshhhh_20" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://leetcode.com/u/user6644hA/" target="_blank">
+  <a href="https://leetcode.com/u/vansh__20/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
