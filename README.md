@@ -30,16 +30,6 @@ Software engineer open to SDE roles. I work across the stack: React/Next.js fron
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **VeriAudit AI** | AI-powered Solidity auditor using Slither, Mythril, Groq LLMs and RAG over Sherlock/Code4rena reports. Outputs severity-rated findings, exploit scenarios, patches and Foundry-style PoC tests. Detected 90% of known issues across 50+ vulnerable contracts. | `React` `TypeScript` `FastAPI` `PostgreSQL` |
-| **TestiView** | SaaS platform where businesses collect customer reviews and show testimonials on their site through a single embed link. JWT auth, secure REST APIs, multiple widget layouts. [Repo](https://github.com/Vansh98789/testiview_to_deploy) | `React` `Node.js` `Express` `PostgreSQL` |
-| **TimeVault** | Solana dApp with timestamp-locked PDAs and IPFS storage, wallet login via Phantom/Backpack. IPFS cut on-chain storage costs by 90%. [Repo](https://github.com/Vansh98789/TimeCapsule-Sol) | `Rust` `Anchor` `Solana` `IPFS` `React` |
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**<br/>
@@ -82,18 +72,6 @@ Software engineer open to SDE roles. I work across the stack: React/Next.js fron
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vansh98789/Vansh98789/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vansh98789/Vansh98789/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vansh98789/Vansh98789/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
 
 ---
 
